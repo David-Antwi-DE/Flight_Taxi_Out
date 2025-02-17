@@ -28,3 +28,6 @@ o	Implement a linear regression model to predict taxi out delays.
 o	Evaluate the model's performance using appropriate metrics.
 Findings and Recommendations
 The findings from this analysis will be presented, highlighting key insights and patterns discovered during the EDA. The performance of the linear regression model will be assessed, and recommendations will be made to mitigate taxi out delays at JFK Airport
+
+![image](https://github.com/user-attachments/assets/6143a2cd-3d83-4f34-9789-85bc610eeb29)
+
